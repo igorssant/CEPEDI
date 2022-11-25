@@ -1,0 +1,14 @@
+name: .cepedi-venv
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10.6
+  - pandas
+  - numpy
+  - matplotlib
+  - nbformat
+  - ipykernel
+  - openpyxl
+  - scikit-learn
+  - pip
+  
